@@ -28,4 +28,4 @@ def method2(f, a, b, epsilon):
     xm = (x1 + x2) / 2
     ym = f(xm)
 
-    print(ym, iterations_count)
+    print(xm, ym, iterations_count)
